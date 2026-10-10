@@ -12,6 +12,21 @@ Construida con arquitectura moderna **MVVM**, interfaz declarativa con **Jetpack
 
 ---
 
+## 📸 Galería de la Aplicación (UI & Experiencia de Usuario)
+
+> [!TIP]
+> Capturas de pantalla tomadas en alta resolución (1080×2340) con el **Modo Privacidad activo** (cifras sensibles enmascaradas con `$****` para máxima confidencialidad).
+
+| 01. Dashboard Principal | 02. Historial de Registros | 03. Límites Presupuestarios | 04. Metas de Ahorro |
+| :---: | :---: | :---: | :---: |
+| <img src="docs/screenshots/01_dashboard.png" width="230" alt="01 Dashboard Principal" /><br><sub>**Resumen principal:** Saldos protegidos, cotizaciones, navegación y accesos rápidos</sub> | <img src="docs/screenshots/02_registros.png" width="230" alt="02 Registros" /><br><sub>**Historial de movimientos:** Buscador en vivo, filtros por chip y montos protegidos</sub> | <img src="docs/screenshots/03_limites.png" width="230" alt="03 Límites" /><br><sub>**Límites mensuales:** Topes por categoría con barras de alerta preventiva en tiempo real</sub> | <img src="docs/screenshots/04_metas.png" width="230" alt="04 Metas" /><br><sub>**Metas de ahorro:** Definición de objetivos financieros y seguimiento de avance porcentual</sub> |
+
+| 05. Nuevo Movimiento | 06. Menú Lateral | 07. Mi Perfil | 07b. Switches de Personalización |
+| :---: | :---: | :---: | :---: |
+| <img src="docs/screenshots/05_nuevo_movimiento.png" width="230" alt="05 Nuevo Movimiento" /><br><sub>**ModalBottomSheet:** Registro ágil de ingresos, gastos y transferencias</sub> | <img src="docs/screenshots/06_menu_lateral.png" width="230" alt="06 Menú Lateral" /><br><sub>**Navigation Drawer:** Acceso a módulos y switch directo de Modo Privacidad</sub> | <img src="docs/screenshots/07_perfil_personalizacion.png" width="230" alt="07 Perfil Personalización" /><br><sub>**Mi Perfil:** Preferencias de cuenta, seguridad biométrica y personalización</sub> | <img src="docs/screenshots/07b_perfil_personalizacion_switches.png" width="230" alt="07b Switches Personalización" /><br><sub>**Personalización:** Interruptores dinámicos para visibilidad de módulos en Dashboard</sub> |
+
+---
+
 ## 🚀 Módulos y Funcionalidades Principales
 
 ### 1. 💼 Gestión Multibilletera & Cuentas
