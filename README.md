@@ -71,15 +71,16 @@ Construida con arquitectura moderna **MVVM**, interfaz declarativa con **Jetpack
 
 ## 📦 Descarga e Instalación del APK
 
-La versión compilada y lista para instalar se encuentra disponible dentro de este repositorio:
+La versión compilada y lista para instalar se encuentra publicada oficialmente en la sección de **[GitHub Releases](https://github.com/fedehda/presupuestomensual/releases)**:
 
-* 📥 **Descarga directa:** [`releases/PresupuestoMensual-v1.0-debug.apk`](releases/PresupuestoMensual-v1.0-debug.apk) (~22.6 MB)
+* 🚀 **Página oficial de Releases:** [Presupuesto Mensual Releases (Última versión)](https://github.com/fedehda/presupuestomensual/releases/latest)
+* 📥 **Descarga directa del APK:** [PresupuestoMensual-v1.0-debug.apk](https://github.com/fedehda/presupuestomensual/releases/latest/download/PresupuestoMensual-v1.0-debug.apk) (~22.6 MB)
 
 ### Pasos para instalar en tu dispositivo Android:
 
-1. **Descarga el archivo APK** directamente en tu celular o transfiérelo desde tu computadora vía cable USB / Google Drive.
-2. Abre el archivo `PresupuestoMensual-v1.0-debug.apk` desde el explorador de archivos de tu teléfono.
-3. Si el sistema te lo solicita, activa el permiso *"Permitir instalar aplicaciones de fuentes desconocidas"* para tu explorador o navegador.
+1. **Descarga el archivo APK** directamente en tu celular desde el enlace superior (o descárgalo en tu PC y transfiérelo vía cable USB / Google Drive).
+2. Abre el archivo `PresupuestoMensual-v1.0-debug.apk` desde las notificaciones de descarga o el explorador de archivos de tu teléfono.
+3. Si el sistema te lo solicita, activa el permiso *"Permitir instalar aplicaciones de fuentes desconocidas"* para tu navegador o explorador de archivos.
 4. Presiona **Instalar** y ¡listo! La aplicación se iniciará de inmediato con la pantalla de bienvenida y login.
 
 ---
